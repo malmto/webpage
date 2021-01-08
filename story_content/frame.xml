@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="210108 Finnished version 5" />
+              <option name="title_text" value="210108 Finnished version 7" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -72,7 +72,7 @@
               <option name="font" value="Lato" />
             </options>
           </option>
-          <option name="settings" value="true" />
+          <option name="settings" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
